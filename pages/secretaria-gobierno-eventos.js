@@ -34,7 +34,7 @@ const SecDeGobierno = () => {
         <div class='Cont' >
         <div class='img'>
           <h2>
-            Secretaria de Gobierno
+            SECRETARÍA DE GOBIERNO
           </h2>
           <h3>
             Mantente al tanto de todo
