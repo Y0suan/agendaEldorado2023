@@ -34,7 +34,7 @@ const SecDeObrasPublicas = () => {
         <div class='Cont' >
         <div class='img'>
           <h2>
-            Secretaria de Obras Publicas
+             SECRETARÍA DE OBRAS PÚBLICAS
           </h2>
           <h3>
             Mantente al tanto de todo
