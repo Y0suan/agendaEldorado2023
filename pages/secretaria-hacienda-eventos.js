@@ -32,7 +32,7 @@ const SeDeHacienda = () => {
       <div class='Cont' >
       <div class='img'>
         <h2>
-          Secretaria de Hacienda
+           SECRETARÍA DE HACIENDA
         </h2>
         <h3>
           Mantente al tanto de todo
