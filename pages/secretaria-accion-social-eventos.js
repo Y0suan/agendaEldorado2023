@@ -33,7 +33,7 @@ const SecDeAccion = () => {
       <div class='Cont' >
       <div class='img'>
         <h2>
-          Secretaria de Accion Social
+          SECRETARÍA DE ACCIÓN SOCIAL
         </h2>
         <h3>
           Mantente al tanto de todo
