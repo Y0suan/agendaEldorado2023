@@ -32,7 +32,7 @@ const SeDeProduccion = () => {
       <div class='Cont' >
       <div class='img'>
         <h2>
-          Secretaria de Produccion
+          SECRETARÍA DE PRODUCCIÓN
         </h2>
         <h3>
           Mantente al tanto de todo
