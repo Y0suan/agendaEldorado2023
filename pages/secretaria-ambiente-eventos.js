@@ -29,7 +29,7 @@ const SecDeAmbiente = () => {
       <div className='ContSec'>
         <div className='Cont' >
           <div className='img'>
-            <h2>Secretaria de Ambiente</h2>
+            <h2> SECRETARÍA DE AMBIENTE</h2>
             <h3>Mantente al tanto de todo</h3>
           </div>
         </div>
